@@ -1,0 +1,29 @@
+# General Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.pot
+*.pyc
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+*.venv
+.env
+env/
+myenv/
+.virtualenv/
